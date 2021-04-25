@@ -1,9 +1,9 @@
 numpy==1.16.4
-imutils==0.5.3
-pandas==0.24.2
-opencv_python==4.4.0.44
-pafy==0.5.5
-Pillow==7.2.0
-streamlit==0.60.0
+streamlit==0.52.1
+pillow
+keras
+tensorflow==2.0.0b1
+opencv_python
 wget==3.2
 youtube_dl==2020.6.16.1
+imutils==0.5.3
