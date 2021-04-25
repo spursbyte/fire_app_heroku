@@ -2,7 +2,7 @@ numpy==1.16.4
 streamlit==0.52.1
 pillow
 keras
-tensorflow==2.0.0b1
+tensorflow==2.5.0rc1
 opencv_python
 wget==3.2
 youtube_dl==2020.6.16.1
